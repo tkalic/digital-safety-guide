@@ -68,7 +68,3 @@ This is the most comprehensive AI regulation passed anywhere in the world so far
 - Audit your model for disparate impact across demographic groups before deployment
 - Build in a mechanism for users to contest automated decisions
 - Don't deploy high-stakes AI without a human review layer
-
----
-
-*Next: [04 — Digital Sustainability](04_digital_sustainability.md)*
