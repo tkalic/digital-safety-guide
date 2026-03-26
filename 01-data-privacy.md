@@ -70,7 +70,3 @@ If you're in the EU, you can submit a data access or deletion request to any com
 | ProtonVPN / Mullvad | VPN | Paid |
 | Signal | Encrypted messaging | Free |
 | Firefox / Brave | Privacy-focused browsers | Free |
-
----
-
-*Next: [02 — Social Media Responsibility](02_social_media.md)*
